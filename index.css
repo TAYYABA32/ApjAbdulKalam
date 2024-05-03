@@ -44,6 +44,8 @@
 .top-section h4 {
   font-size: 30px;
   align-items: end;
+
+  width: 100%;
 }
 .imgContainer {
   border-radius: 50%;
